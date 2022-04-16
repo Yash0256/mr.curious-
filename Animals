@@ -1,0 +1,10 @@
+import pyautogui as pg
+import time 
+
+tune.Sleep(10)
+txt = open('animals.txt','r
+a.  = "Uday is a"
+
+for i in txt:
+    pg.write(a+' '+i)
+    pg. Press('Enter
